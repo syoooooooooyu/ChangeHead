@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace src\syouyu\ChangeHead;
+namespace syouyu\ch;
 
 use pocketmine\event\Listener;
 use pocketmine\event\player\PlayerJoinEvent;
